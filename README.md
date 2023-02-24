@@ -5,6 +5,3 @@ minha lista de compras
 - chocolate
 - sucrilhos
 - leite
-- açucar
-- engrenagem
-- envelope
